@@ -26,7 +26,7 @@ This code contains the training and validation process of the analysis of the re
 It also inculdes the visualization of all these results. 
 
 This code uses:
-- Two Resnet 50 Model to predict the Yaw and Pitch angles each one.
+- Two Resnet 50 Model to predict the Yaw and Pitch angles.
 - Custom loss function
 - Epochs: 160
 - Learning Rate: 0.001
