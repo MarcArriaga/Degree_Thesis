@@ -22,6 +22,9 @@ path_train = "/mnt/gpid07/imatge/marc.arriaga/database/paths/splits/train_2_rgb.
 path_test =  "/mnt/gpid07/imatge/marc.arriaga/database/paths/splits/test_2_rgb.txt"
 
 '''
+This code contains the training and validation process of the analysis of the results. 
+It also inculdes the visualization of all these results. 
+
 This code uses:
 - Two Resnet 50 Model to predict the Yaw and Pitch angles each one.
 - Custom loss function
