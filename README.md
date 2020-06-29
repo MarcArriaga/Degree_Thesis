@@ -1,4 +1,4 @@
-# Position determination using computer vision to determine the focus of attention
+# Head-pose determination using computer vision to determine the direction of gaze
 
 **Author:** Marc Arriaga Hidalgo
 
