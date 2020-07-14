@@ -1,4 +1,4 @@
-# Head-pose determination using computer vision to determine the direction of gaze
+# Head-pose determination using computer vision to determine the direction of the gaze
 
 **Author:** Marc Arriaga Hidalgo
 
